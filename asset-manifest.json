@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2e8e41c.chunk.css",
+    "main.js": "/static/js/main.e57241aa.chunk.js",
+    "main.js.map": "/static/js/main.e57241aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6fd1fea2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6fd1fea2.js.map",
+    "static/js/2.3ea39a12.chunk.js": "/static/js/2.3ea39a12.chunk.js",
+    "static/js/2.3ea39a12.chunk.js.map": "/static/js/2.3ea39a12.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4ab1558c3ddbbb7103cdd86f77dddfe8.js": "/precache-manifest.4ab1558c3ddbbb7103cdd86f77dddfe8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c2e8e41c.chunk.css.map": "/static/css/main.c2e8e41c.chunk.css.map",
+    "static/js/2.3ea39a12.chunk.js.LICENSE.txt": "/static/js/2.3ea39a12.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/static/media/1.e111a03f.png",
+    "static/media/2.png": "/static/media/2.6d82d8d6.png",
+    "static/media/3.png": "/static/media/3.892afe8e.png",
+    "static/media/4.png": "/static/media/4.30c09f10.png",
+    "static/media/5.png": "/static/media/5.8980e52e.png",
+    "static/media/6.png": "/static/media/6.09810654.png",
+    "static/media/7.png": "/static/media/7.8c7aa454.png",
+    "static/media/8.png": "/static/media/8.e0475cb1.png",
+    "static/media/9.png": "/static/media/9.07472bce.png",
+    "static/media/cancel.svg": "/static/media/cancel.40000a14.svg",
+    "static/media/fb.svg": "/static/media/fb.752595b6.svg",
+    "static/media/footballplayer.png": "/static/media/footballplayer.745c10fe.png",
+    "static/media/app.css": "/static/media/globe.cae275f9.jpg",
+    "static/media/hand.svg": "/static/media/hand.9119a5d6.svg",
+    "static/media/ig.svg": "/static/media/ig.466475c7.svg",
+    "static/media/logo.png": "/static/media/logo.8dd39fa5.png",
+    "static/media/menu.svg": "/static/media/menu.486901a2.svg",
+    "static/media/ms.svg": "/static/media/ms.23d7da44.svg",
+    "static/media/plane1.png": "/static/media/plane1.3487eea7.png",
+    "static/media/plane2.jpg": "/static/media/plane2.46fd18e9.jpg",
+    "static/media/wa.svg": "/static/media/wa.55318b59.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fd1fea2.js",
+    "static/js/2.3ea39a12.chunk.js",
+    "static/css/main.c2e8e41c.chunk.css",
+    "static/js/main.e57241aa.chunk.js"
+  ]
+}
